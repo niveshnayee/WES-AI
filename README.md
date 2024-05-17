@@ -71,4 +71,4 @@ Thank you for setting up the project! If you have any questions or encounter any
 
 
 
-Video Link: https://youtu.be/3IEvYuV41MU
+Demo Link: https://youtu.be/3IEvYuV41MU
